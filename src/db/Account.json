@@ -8,22 +8,22 @@
       "name": "Cuenta 1",
       "base": [
         {
-          "name": "current Comsuption",
+          "name": "Current Conmsuption",
           "percent": 65,
           "color": "#01684B"
         },
         {
-          "name": "Base Comsuption",
+          "name": "Base Conmsuption",
           "percent": 12,
           "color": "#F5B045"
         },
         {
-          "name": "Six-month Comsuption",
+          "name": "Six-month Conmsuption",
           "percent": 23,
           "color": "#26E7A6"
         },
         {
-          "name": "potencial",
+          "name": "Potential",
           "percent": 98,
           "color": "#38D5CE"
         }
@@ -37,22 +37,22 @@
       "name": "Cuenta 2",
       "base": [
         {
-          "name": "current Comsuption",
+          "name": "Current Conmsuption",
           "percent": 65,
           "color": "#01684B"
         },
         {
-          "name": "Base Comsuption",
+          "name": "Base Conmsuption",
           "percent": 12,
           "color": "#F5B045"
         },
         {
-          "name": "Six-month Comsuption",
+          "name": "Six-month Conmsuption",
           "percent": 23,
           "color": "#26E7A6"
         },
         {
-          "name": "potencial",
+          "name": "Potential",
           "percent": 98,
           "color": "#38D5CE"
         }
@@ -66,22 +66,22 @@
       "name": "Cuenta 3",
       "base": [
         {
-          "name": "current Comsuption",
+          "name": "Current Conmsuption",
           "percent": 65,
           "color": "#01684B"
         },
         {
-          "name": "Base Comsuption",
+          "name": "Base Conmsuption",
           "percent": 12,
           "color": "#F5B045"
         },
         {
-          "name": "Six-month Comsuption",
+          "name": "Six-month Conmsuption",
           "percent": 23,
           "color": "#26E7A6"
         },
         {
-          "name": "potencial",
+          "name": "Potential",
           "percent": 98,
           "color": "#38D5CE"
         }
@@ -95,22 +95,22 @@
       "name": "Cuenta 4",
       "base": [
         {
-          "name": "current Comsuption",
+          "name": "Current Conmsuption",
           "percent": 65,
           "color": "#01684B"
         },
         {
-          "name": "Base Comsuption",
+          "name": "Base Conmsuption",
           "percent": 12,
           "color": "#F5B045"
         },
         {
-          "name": "Six-month Comsuption",
+          "name": "Six-month Conmsuption",
           "percent": 23,
           "color": "#26E7A6"
         },
         {
-          "name": "potencial",
+          "name": "Potential",
           "percent": 98,
           "color": "#38D5CE"
         }
