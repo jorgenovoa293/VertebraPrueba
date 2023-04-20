@@ -36,12 +36,13 @@ const EcoCard = ({ record }: ecoCard) => {
         </Typography.Text>
       </Col>
 
-      {record?.base.map((m: any) => (
+      {record?.base.map((m: any, i: any) => (
         <>
           {record?.groups !== undefined ? (
             <>
               <Typography.Text
                 style={{ fontSize: "0.7rem", textAlign: "center" }}
+                key={`typography_${i}`}
               >
                 {m.name}
               </Typography.Text>
@@ -53,10 +54,11 @@ const EcoCard = ({ record }: ecoCard) => {
                   to: "#87d068",
                 }}
                 style={{ marginBottom: "9px" }}
+                key={`progress_${i}`}
               />
             </>
           ) : (
-            <Tooltip title={m.name} color="#D088B9">
+            <Tooltip title={m.name} color="#D088B9" key={`tooltip_${i}`}>
               <Col
                 span={6}
                 style={{

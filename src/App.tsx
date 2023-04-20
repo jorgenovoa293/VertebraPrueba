@@ -6,7 +6,8 @@ const { Header, Footer, Sider, Content } = Layout;
 function App() {
 
   return <>
-    <h1>Prueba técnica Vertebra</h1>
+    <EcoEficiencia/>
+     
   </>
 }
 
